@@ -1,0 +1,7 @@
+C:\Users\alexw\Documents\School Work\NetworkingA2\Whalen_Socket_Client\bin\Debug\Whalen_Socket_Client.exe.config
+C:\Users\alexw\Documents\School Work\NetworkingA2\Whalen_Socket_Client\bin\Debug\Whalen_Socket_Client.exe
+C:\Users\alexw\Documents\School Work\NetworkingA2\Whalen_Socket_Client\bin\Debug\Whalen_Socket_Client.pdb
+C:\Users\alexw\Documents\School Work\NetworkingA2\Whalen_Socket_Client\obj\Debug\Whalen_Socket_Client.csproj.CoreCompileInputs.cache
+C:\Users\alexw\Documents\School Work\NetworkingA2\Whalen_Socket_Client\obj\Debug\Whalen_Socket_Client.exe
+C:\Users\alexw\Documents\School Work\NetworkingA2\Whalen_Socket_Client\obj\Debug\Whalen_Socket_Client.pdb
+C:\Users\alexw\Documents\School Work\NetworkingA2\Whalen_Socket_Client\obj\Debug\Whalen_Socket_Client.csproj.AssemblyReference.cache
